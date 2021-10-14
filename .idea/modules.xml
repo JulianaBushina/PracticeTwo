@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PracticeTwo.iml" filepath="$PROJECT_DIR$/.idea/PracticeTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PracticeTwo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PracticeTwo.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dialogapp/PracticeTwo.dialogapp.iml" filepath="$PROJECT_DIR$/.idea/modules/dialogapp/PracticeTwo.dialogapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/intentfilter/PracticeTwo.intentfilter.iml" filepath="$PROJECT_DIR$/.idea/modules/intentfilter/PracticeTwo.intentfilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/multiatcivity/PracticeTwo.multiatcivity.iml" filepath="$PROJECT_DIR$/.idea/modules/multiatcivity/PracticeTwo.multiatcivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/notificationapp/PracticeTwo.notificationapp.iml" filepath="$PROJECT_DIR$/.idea/modules/notificationapp/PracticeTwo.notificationapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/toastapp/PracticeTwo.toastapp.iml" filepath="$PROJECT_DIR$/.idea/modules/toastapp/PracticeTwo.toastapp.iml" />
+    </modules>
+  </component>
+</project>
